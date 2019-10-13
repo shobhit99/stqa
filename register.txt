@@ -1,0 +1,2 @@
+virat;kohli;viratkohli@gmail.com;9876543210;Hadapsar,pune;password123;password123;Male;A+;1998/10/15
+rohit;sharma;rohitsharma@gmail.com;8284848593;Bandra,Mumbai;password1234;password1234;Male;O+;1989/10/12
