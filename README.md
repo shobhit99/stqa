@@ -42,3 +42,6 @@ output_view.txt
 ```
 ### Site: 
 http://medicalrecords.rf.gd
+#### Delete all records
+http://medicalrecords.rf.gd/delete.php
+
