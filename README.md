@@ -40,3 +40,5 @@ python runtest.py view
 output_register.txt
 output_view.txt
 ```
+### Site: 
+http://medicalrecords.rf.gd
